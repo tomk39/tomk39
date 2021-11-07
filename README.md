@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-📫 How to reach me:
+📫 Here it is how you can reach me:
 
 [<img align="left" alt="tomislavk.blog " width="22px" src="/IMG_0190.png" />][website]
 [<img align="left" alt="tomislavk.blog | Twitter" width="22px" src="/twitter-icon.png" />][twitter]

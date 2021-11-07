@@ -3,7 +3,7 @@
 📫 How to reach me:
 
 [<img align="left" alt="tomislavk.blog " width="22px" src="/IMG_0190.png" />][website]
-[<img align="left" alt="tomislavk.blog | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tomislavk.blog | Twitter" width="22px" src="/twitter-icon.png" />][twitter]
 [<img align="left" alt="tomislavk.blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 

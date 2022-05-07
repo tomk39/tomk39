@@ -1,5 +1,7 @@
 ### Hi folks 👋
 
+🔭 I’m currently working on Cisco ACI Fabric enjoy in SDN
+
 📫 Here it is how you can reach me:
 
 [<img align="left" alt="tomislavk.blog " width="22px" src="/IMG_0190.png" />][website]
@@ -12,7 +14,6 @@
 [twitter]: https://twitter.com/tkranjec
 [linkedin]: https://www.linkedin.com/in/tkranjec/  
 
-🔭 I’m currently working on Cisco ACI Fabric enjoy in SDN
 <!--
 **tomk39/tomk39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

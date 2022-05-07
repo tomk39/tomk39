@@ -12,7 +12,7 @@
 [twitter]: https://twitter.com/tkranjec
 [linkedin]: https://www.linkedin.com/in/tkranjec/  
 
-- 🔭 I’m currently working on ####Cisco ACI
+🔭 I’m currently working on Cisco ACI Fabric enjoy in SDN
 <!--
 **tomk39/tomk39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

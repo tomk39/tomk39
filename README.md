@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-🔭 I’m currently working on Cisco ACI Fabric enjoy in SDN
+🔭 
 
 📫 Here it is how you can reach me:
 
